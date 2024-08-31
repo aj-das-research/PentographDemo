@@ -3,7 +3,8 @@
 ## 📖 Project Overview
 
 Welcome to the **Pentograph Demo**! This project demonstrates how to leverage machine learning models for specialized tasks. Inside, you'll find a Jupyter notebook that walks through the process of using a pre-trained model (`best.pt`) to make predictions  and generate realtime alerts for potential risks in pentographs of a train.
-
+![Pentogram Alert Generation System](pentogram_demo.png)
+*📷 Fig 1: This shows how in realtime our model can detect the connector cable on the metal plaate and calculates the deviation from the centroid to generate realtime alerts. This helps to mitigate technical failures in trains.*
 ## 🛠️ Installation Instructions
 
 Follow these steps to set up the project on your local machine:
