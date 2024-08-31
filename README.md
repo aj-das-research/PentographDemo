@@ -78,6 +78,6 @@ We welcome contributions! If you'd like to help improve this project, please for
 
 For questions or support, feel free to reach out:
 
-- **Name**: Aj Das
+- **Name**: Abhijit Das
 - **Email**: [aj.das.research@gmail.com](mailto:aj.das.research@gmail.com)
 - **GitHub**: [aj-das-research](https://github.com/aj-das-research)
