@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-Welcome to the **Pentograph Demo**! This project demonstrates how to leverage machine learning models for specialized tasks. Inside, you'll find a Jupyter notebook that walks through the process of using a pre-trained model (`best.pt`) to make predictions.
+Welcome to the **Pentograph Demo**! This project demonstrates how to leverage machine learning models for specialized tasks. Inside, you'll find a Jupyter notebook that walks through the process of using a pre-trained model (`best.pt`) to make predictions  and generate realtime alerts for potential risks in pentographs of a train.
 
 ## 🛠️ Installation Instructions
 
